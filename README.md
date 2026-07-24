@@ -3,7 +3,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/ak1raww">
-        <img src="https://i.imgur.com/LyY4dYO.gif" style="border-radius: 16px;" alt="ak1raww avatar"/>
+        <img src="./assets/media/banner.gif" style="border-radius: 16px;" alt="ak1raww avatar"/>
       </a>
       <br/><br/>
       <!-- DISCORD PRESENCE -->
