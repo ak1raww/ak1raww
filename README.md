@@ -1,46 +1,34 @@
-<div align="center">
-
-  <!-- DISCORD LIVE PRESENCE (Lanyard) -->
-  <a href="https://discord.com/users/IL_TUO_DISCORD_ID">
-    <img src="https://lanyard.cnrad.dev/api/IL_TUO_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
-  </a>
-
-  <br/><br/>
-
-  <!-- HEADER -->
-  <h1>✦ ak1raww ✦</h1>
-  <p><i>Developer • Tech Enthusiast • Minimalist</i></p>
-
-  <p>
-    <a href="https://discord.com/users/IL_TUO_DISCORD_ID">
-      <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://github.com/ak1raww">
-      <img src="https://img.shields.io/badge/GitHub-ak1raww-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-</div>
-
----
-
-<!-- MAIN CONTENT BLOCK -->
-<table border="0" width="100%">
+<!-- CARD -->
+<table border="0" align="center" width="100%">
   <tr>
-    <td width="35%" align="center" valign="top">
-      <br/>
-      <!-- Se hai una cartella 'assets' con il tuo logo, usa: ./assets/logo.png -->
-      <!-- Altrimenti puoi usare un URL diretto o questa immagine placeholder -->
-      <img src="https://github.com/ak1raww.png" width="190" style="border-radius: 12px;" alt="ak1raww avatar" />
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/ak1raww">
+        <img src="https://github.com/ak1raww.png" width="140" style="border-radius: 16px;" alt="ak1raww avatar"/>
+      </a>
       <br/><br/>
-      <code>system.info --fetch</code>
+      <!-- SOSTITUITO IL BADGE CON LA DISCORD PRESENCE -->
+      <a href="https://discord.com/users/539464122027343873">
+        <img src="https://lanyard.cnrad.dev/api/539464122027343873?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&showDisplayName=true" 
+             alt="Discord Live Presence" 
+             style="width:100%; max-width:320px; border-radius:10px;" />
+      </a>
     </td>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
+      <pre><code><font color="#9c84ef"><b>ak1raww.config</b></font>
+──────────────
+<b>developer:</b>
+  <b>alias:</b> "yiiky"
+  <b>focus:</b> "Web Development & Automating Tasks"
+  <b>motto:</b> "Expertise isn't something you hang on the wall."
 
-```zsh
-┌── [ak1raww@workspace] ~
-├── OS       : Windows 11 / Linux
-├── Alias    : ak1raww
-├── Focus    : Software Engineering & Automation
-├── Core     : Python, C#, JavaScript, Lua
-└── Editor   : VS Code / Neovim
+<b>environment:</b>
+  <b>os:</b> <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" valign="middle" />  <b>editor:</b> <img src="https://img.shields.io/badge/Zed-191b1c?logo=zedindustries&logoColor=FFFFFF" valign="middle" />
+
+<b>tech_stack:</b>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=fff" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></code></pre>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <sub><b>ak1raww</b> • Makin' life easier, for me and the world.</sub>
+</div>
