@@ -3,7 +3,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/ak1raww">
-        <img src="./assets/media/banner.gif" style="border-radius: 16px;" alt="ak1raww avatar"/>
+        <img src="./assets/media/banner.gif" style="border-radius: 16px;" alt="banner"/>
       </a>
       <br/><br/>
       <!-- DISCORD PRESENCE -->
@@ -25,7 +25,7 @@
   <b>os:</b> <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" valign="middle" />  <b>editor:</b> <img src="https://img.shields.io/badge/Zed-191b1c?logo=zedindustries&logoColor=FFFFFF" valign="middle" />
 
 <b>tech_stack:</b>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=fff" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></code></pre>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=fff" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></code></pre>
     </td>
   </tr>
 </table>
