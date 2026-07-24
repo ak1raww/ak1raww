@@ -3,10 +3,10 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/ak1raww">
-        <img src="https://github.com/ak1raww.png" width="140" style="border-radius: 16px;" alt="ak1raww avatar"/>
+        <img src="https://i.imgur.com/LyY4dYO.gif" style="border-radius: 16px;" alt="ak1raww avatar"/>
       </a>
       <br/><br/>
-      <!-- SOSTITUITO IL BADGE CON LA DISCORD PRESENCE -->
+      <!-- DISCORD PRESENCE -->
       <a href="https://discord.com/users/539464122027343873">
         <img src="https://lanyard.cnrad.dev/api/539464122027343873?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&showDisplayName=true" 
              alt="Discord Live Presence" 
