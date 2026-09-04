@@ -23,10 +23,10 @@
         
 ㅤ 
 <b>tech_stack:</b>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=fff" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a> <a href="https://shopify.dev/docs/apps/tools/liquid"><img src="https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=fff" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /></a>
  
 <b>environment:</b>
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" valign="baseline" /> <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff" valign="baseline" /> 
+<a href="https://omarchy.org/"><img src="https://img.shields.io/badge/Omarchy-a1cf6b?logo=omarchy&logoColor=fff" valign="baseline" /></a> <a href="https://code.visualstudio.com/"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" valign="baseline" /></a> 
  
 <b>main_repos:</b> <a href="https://github.com/ak1raww/Solarcord">Solarcord</a> | <a href="https://github.com/ak1raww/Solari">Solari</a>
 </code></pre>
